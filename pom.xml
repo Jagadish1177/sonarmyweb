@@ -11,8 +11,7 @@
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://98.84.23.42:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>squ_2310ed4879d7facda7f254d46d39a1f98a5e9c4f</sonar.password>
+		<sonar.login>squ_2310ed4879d7facda7f254d46d39a1f98a5e9c4f</sonar.login>
 
 	</properties>
 	<dependencies>
